@@ -1,3 +1,5 @@
 # minimalCocoa
 
-A description of this package.
+A minimal swift code for a Window with an NSView
+
+
